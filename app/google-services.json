@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "78051602635",
+    "project_id": "projekpam-2024",
+    "storage_bucket": "projekpam-2024.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:78051602635:android:9d0df3bf4400c722192b4e",
+        "android_client_info": {
+          "package_name": "com.example.projekkelompok"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5np5-KIgUuX7Pj0e8bt65pm9rMgLboK4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:78051602635:android:0726d06c6a87c462192b4e",
+        "android_client_info": {
+          "package_name": "com.example.projekpam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5np5-KIgUuX7Pj0e8bt65pm9rMgLboK4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
